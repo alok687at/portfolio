@@ -1,0 +1,38 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "LnIOPVrhNh_eNLoa61bSj"
+uri = "file://artifacts/portfolio/public/images/hero-bg.png"
+type = "image"
+title = "Dark geometric tech abstract background"
+
+[[generated]]
+id = "eCNUZzLk26-U0IIHtT5YQ"
+uri = "file://artifacts/portfolio/public/images/project-poker.png"
+type = "image"
+title = "Poker playing cards abstract art"
+
+[[generated]]
+id = "R70jl88WTlqiEQAfBAPkV"
+uri = "file://artifacts/portfolio/public/images/project-ecommerce.png"
+type = "image"
+title = "Ecommerce boxes logistics abstract"
+
+[[generated]]
+id = "dehrl5ygf_eBFl254sNN2"
+uri = "file://artifacts/portfolio/public/images/project-streaming.png"
+type = "image"
+title = "Video streaming film abstract"
+
+[[generated]]
+id = "HzdrF_8HL83oj-nw6igEx"
+uri = "file://artifacts/portfolio/public/images/project-logistics.png"
+type = "image"
+title = "Logistics delivery abstract network"
+
+[[generated]]
+id = "OecolGQ8YU7wJbiSIyOzK"
+uri = "file://artifacts/portfolio/public/images/project-b2b.png"
+type = "image"
+title = "Chemicals scientific abstract design"
